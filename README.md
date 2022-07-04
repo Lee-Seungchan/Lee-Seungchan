@@ -35,7 +35,7 @@
 
 <div align=center> 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeseungchan)](https://solved.ac/leeseungchan)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeseungchan)](https://solved.ac/leeseungchan/)
 
 <a href="https://github.com/Lee-Seungchan"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=Lee-Seungchan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" /></a>
 
