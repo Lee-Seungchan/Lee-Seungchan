@@ -1,4 +1,4 @@
-<div align=center><h1>Hello, I'm Seungchan !</h1>
+<div align=center><h1>🙃Hello, I'm Seungchan !</h1>
 
 ###### 반갑습니다. 저는 백엔드를 공부하고 있는 25살 이승찬입니다. <br>
 ###### 네트워크 관리담당으로 일한 경험이 있습니다. 20.12.16. ~ 21.12.15. <br>
