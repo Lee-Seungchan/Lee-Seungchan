@@ -35,7 +35,7 @@
 
 <div align=center> 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeseungchan)](https://solved.ac/leeseungchan)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeseungchan)](https://solved.ac/leeseungchan)
 <img align='mid' src="https://github-readme-stats.vercel.app/api?username=Lee-Seungchan" height="165">
 
 </div>
