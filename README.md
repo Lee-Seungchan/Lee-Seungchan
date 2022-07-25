@@ -12,6 +12,7 @@
 <div align=center><h1>📚 Stacks</h1></div>
 
 <div align=center> 
+
   ### Tech Stack <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -35,7 +36,6 @@
 <div align=center> 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeseungchan)](https://solved.ac/leeseungchan/)
 
 <a href="https://github.com/Lee-Seungchan"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=Lee-Seungchan&show_icons=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" /></a>
 
